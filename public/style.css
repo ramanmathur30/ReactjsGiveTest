@@ -1,0 +1,63 @@
+.form-css{
+    max-width: 50%;
+    margin:auto
+}
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px 10px 10px 30px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.input-field-50 {
+    width: 38%;
+    padding: 10px 10px 10px 30px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 9px 31px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+  }
+
+  .button-danger {
+    background-color: #f5310e; /* Red */
+    border: none;
+    color: white;
+    padding: 9px 31px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+  }
+
+
+  .modal{
+    margin: 50%;
+    height: 100px;
+    width: 200px;
+  }
